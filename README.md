@@ -1,8 +1,7 @@
 ## Hi, I'm Nafis
 
 <p align="center">
-  Psychology Major | Engineer by Passion | Full-Stack Developer<br>
-  <em>Where human behavior meets elegant code.</em>
+  Psychology Major | Engineer by Passion | Full-Stack Developer
 </p>
 
 ---
