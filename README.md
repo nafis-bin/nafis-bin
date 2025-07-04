@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Nafis
 
-<!--
-**nafis-bin/nafis-bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Psychology Major | Engineer by Passion | Full-Stack Developer<br>
+  <em>Where human behavior meets elegant code.</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍🎓 About Me
+
+-  Currently majoring in **Psychology**
+-  Built and deployed multiple **production-level projects**
+-  Frontend specialist: React, Next.js, Tailwind, TypeScript
+-  Backend engineer (Go): RESTful APIs, gRPC, PostgreSQL
+-  Exploring the intersection of human behavior & intelligent systems
+-  I love solving problems where **UX meets backend performance**
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/nafis-bin-nizam-fahim-a57340275/)
+- [Portfolio](https://nafis-bin.github.io/portfolio/)
+- nafisbinnizam@gmail.com
