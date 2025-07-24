@@ -1,14 +1,13 @@
 ## Hi, I'm Nafis
 
-<p align="center">
-   Software Engineer | Psychology Major
-</p>
+### Software Engineer | Psychology Major
+
 
 ---
 
 ## About Me
 
--  Currently majoring in **Psychology**
+-  Majoring in **Psychology**
 -  Built and deployed multiple **production-level projects**
 -  Frontend specialist: React, Next.js, Tailwind, TypeScript
 -  Backend engineer (Go): RESTful APIs, gRPC, PostgreSQL
