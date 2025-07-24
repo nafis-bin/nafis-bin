@@ -1,7 +1,6 @@
 ## Hi, I'm Nafis
 
-### Software Engineer
-
+### Software Engineer (Full-Stack)
 
 ## About Me
 
