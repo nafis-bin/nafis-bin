@@ -1,9 +1,7 @@
 ## Hi, I'm Nafis
 
-### Software Engineer | Psychology Major
+### Software Engineer
 
-
----
 
 ## About Me
 
