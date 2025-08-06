@@ -1,6 +1,6 @@
 ## Hi, I'm Nafis
 
-# SWE
+# Software Engineer
 
 ## About Me
 
